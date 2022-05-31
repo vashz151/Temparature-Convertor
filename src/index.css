@@ -21,12 +21,14 @@ code {
 }
 
 body {
-  background-color: #2e2e2e;
+  background-color: #26a775;
   font-family: "Arvo", serif;
   color: white;
 }
 
-label, input,p{
+label,
+input,
+p {
   width: 12%;
   margin: 0 auto;
   border-radius: 20px;
@@ -35,10 +37,11 @@ label, input,p{
   font-weight: 300;
   text-align: center;
 }
-label,p{
+label,
+p {
   width: 20%;
   margin: 1% auto;
 }
-h1{
+h1 {
   text-align: center;
 }

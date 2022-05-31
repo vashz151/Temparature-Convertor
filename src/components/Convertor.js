@@ -45,8 +45,8 @@ function Convertor() {
     tempchecker(newcel);
   };
 
-  const [cel, setcel] = useState(0);
-  const [far, setfar] = useState(0);
+  const [cel, setcel] = useState(37.5);
+  const [far, setfar] = useState(99.5);
 
   return (
     <div>
